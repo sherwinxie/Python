@@ -4,7 +4,7 @@
 电话：176-9546-9263  
 Email：sherwinxie@foxmail.com  
 Github: https://github.com/sherwinxie
-
+![photo](https://github.com/sherwinxie/Python/raw/master/sherwinwhite.jpg)
 ## 证书 & 技能
 
 - 英语证书：大学英语6级 通过
