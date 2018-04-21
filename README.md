@@ -1,2 +1,2 @@
 # Python
-Python demo etc...
+Python 适合写随笔..
