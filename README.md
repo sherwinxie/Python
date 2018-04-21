@@ -1,2 +1,2 @@
 # Python
-Python 适合写随笔..
+Python 随笔..
