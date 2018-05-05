@@ -1,4 +1,4 @@
-# Created: 22th April 2018 by Sherwin X
+ Created: 22th April 2018 by Sherwin X
 # Reference: 《见与不见》  Meet or Not meet ？
 # Description: 无论你爱与不爱我 我的爱就在那里，不增不减.. 
 me = input("Do you love me？(Y/N): ").lower()
@@ -12,7 +12,4 @@ if(You.love(me) == 1 or You.love(me) == 0 ):
     ++myLove
     --myLove
     print("myLove always "+str(myLove))
-
-
-
 

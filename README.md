@@ -1,2 +1,2 @@
 # Python
-Python 随笔..
+Python demo etc..
