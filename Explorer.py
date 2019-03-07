@@ -1,4 +1,3 @@
-#coding=utf-8
 # Created: 21th Apr 2018 by Sherwin X
 # Reference: To be, or not to be that is the question. ——Hamlet
 # Description: watch the movie，feeling code, just for fun..
